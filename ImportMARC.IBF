@@ -1,0 +1,4 @@
+OpenDB MARC
+ImportDB 0,marc_irb,0,1,D:\ImportMARC\10-09-2018_10-18-20.iso
+CloseDB
+Exit D:\ImportMARC\10-09-2018_10-18-20.txt
